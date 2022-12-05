@@ -7,6 +7,7 @@ import java.util.Scanner;
  * @author Kapil
  *
  */
+
 public class StockAccount {
 	
 	/*
