@@ -7,7 +7,6 @@ import java.util.Scanner;
  * @author Kapil
  *
  */
-
 public class ManageAccount {
 	
 	Scanner sc = new Scanner(System.in); //Create object
