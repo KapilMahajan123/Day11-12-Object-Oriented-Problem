@@ -30,7 +30,6 @@ public class DeckOfCards {
 			/*
 			 *  in this method shuffle the cards distribute among 4 people with 9 cards each randomly
 			 */
-	
 			int i;
 			int j;
 			for (i = 0; i < 4; i++) {
