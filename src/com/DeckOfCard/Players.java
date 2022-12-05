@@ -8,6 +8,7 @@ import java.util.Scanner;
  *
  */
 public class Players {
+	
 	public static void main(String[] args) {
 		//calling methods
 		System.out.println("\nPress 1 ->> To view cards of 4 Players");
